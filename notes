@@ -19,3 +19,9 @@ Solve --> Defining the class
 2. Top up the card by 20
 3. Deduct fare, 3 from the card
 4. check the balance
+
+
+1. Make card
+
+3. check the balance, for minimum fare of £1
+4. Raise an error if balance is below minimum
