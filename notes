@@ -15,13 +15,35 @@ Solve --> Defining the class
 1. Make the card
 2. Top up the card by 100
 
+## deduct
 1. Make a oystercard
 2. Top up the card by 20
 3. Deduct fare, 3 from the card
 4. check the balance
 
-
 1. Make card
-
 3. check the balance, for minimum fare of £1
 4. Raise an error if balance is below minimum
+
+## deduct after touch out
+1. Make a oystercard
+2. Top up the card by £5
+3. Touch in
+4. Touch out
+5. check balance
+
+## saving entery station
+1. make Oystercard
+2. top up oystercard by £5
+3. touch in
+4. check where journey was started
+
+## Journey history
+1. make oystercard
+2. top up
+3. touch in
+4. touch out
+5. check journey history
+
+## Creating station class
+1. check which zone a station is in
